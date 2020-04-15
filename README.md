@@ -40,4 +40,4 @@ calls may need to be modified.
 M. Tim Jones
 mtj@mtjones.com
 
-https://drdobbs.com/web-development/an-embeddable-http-server-184404808
+https://drdobbs.com/web-development/an-embeddable-http-server/184404808
