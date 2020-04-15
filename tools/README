@@ -1,0 +1,10 @@
+
+This subdirectory contains the internal file system creation tool.
+
+First, a subdirectory is created that contains the particular content (such
+as the ./root subdirectory contained here).  Then the ./buildfs tool is run
+specifying the "full" pathname with the -s option.  The result is a file
+called 'filedata.c' which represents a compilable form of the filesystem
+provided.  This file can then be copied to the emhttp build subdirectory
+and the server built to bind with the internal file system.
+

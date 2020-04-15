@@ -1,0 +1,6 @@
+#
+# !!! Note: Specify "full" pathname on your system.
+#
+# After build, copy the filedata.c to the emhttp build subdirectory.
+#
+./buildfs -s /root/projects/emhttp/tools/root
